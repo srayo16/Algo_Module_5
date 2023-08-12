@@ -11,7 +11,7 @@ int main()
 
     for (int i = 0; i < m; i++)
     {
-        int u, v, w;
+        int u, v, w; // number of nodes (n) and number of edges (m) // weight w
         cin >> u >> v >> w;
 
         // without weight
